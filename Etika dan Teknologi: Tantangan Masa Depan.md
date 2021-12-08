@@ -1,6 +1,3 @@
-Etika dan Teknologi: Tantangan Masa Depan
-
-
 Perkembangan teknologi kian pesat, seperti evolusi, memberikan perkembangan pemikiran manusia dalam hal pemecahan masalah, perencanaan, dan pengambilan keputusan. Ketika teknologi mengambil alih fungsi, kerja otak manusia juga menurun akibat hilangnya fungsi tersebut. Misalnya, ketika teknologi komputer muncul, manusia biasa melakukan segala aktivitas, seperti berpikir, menghitung, dan merencanakan sesuatu dengan menggunakan  kompute.
 
 Akibat perkembangan teknologi tersebut, perubahan pola pikir manusia sedikit banyak akan mempengaruhi persepsi manusia terhadap etika dan norma kehidupan. Misalnya, orang biasa berinteraksi melalui fisik/antarmuka. Namun, dengan munculnya teknologi seperti Internet, interaksi ini cenderung menurun. Orang sebenarnya lebih suka menggunakan teknologi di tempat-tempat yang tidak ada kontak fisik/tatap muka. Trend ini telah menyebabkan perubahan dalam praktik etika yang telah disepakati sebelumnya oleh masyarakat.
